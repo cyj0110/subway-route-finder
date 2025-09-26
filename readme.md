@@ -19,20 +19,16 @@
 ## 🏗️ 프로젝트 구조
 
 subway-route-finder/
-    
     backend/          # 서버 코드 (Python Flask)
         app.py
         route.py
         database.db
-
     frontend/         # 웹 코드 (HTML, CSS, JS)
         index.html
         style.css
         script.js
-
     data/             # 지하철 노선/역 데이터 (CSV)
         subway_data.csv
-
     README.md         # 프로젝트 설명
 
 ---
